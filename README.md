@@ -3,7 +3,7 @@
 
 ## Index
 
-1. A Hyperdimensional Primer on Symbolic Logic (GPT)
+1. A Hyperdimensional Primer on Logical Constructs (GPT)
 
 2. Principia Metaphysica Dilucitatio (GPT & Claude)
 
