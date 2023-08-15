@@ -15,5 +15,5 @@
 
 <p align="center">
   <img src="assets/techno-axiological penteract.jpg" width="500px"/>
-  <p align="center"><i>Techno-Axiological Penteract.</i></p>
+  <p align="center"><i>Techno-Axiological Penteract</i></p>
 </p>
