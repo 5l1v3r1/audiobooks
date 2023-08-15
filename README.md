@@ -12,7 +12,7 @@
 4. Advancing Algebra Education (GPT)
 
 <p align="center">
-  <img src="assets/techno-axiological penteract" width="700px"/>
+  <img src="assets/techno-axiological penteract.jpg" width="700px"/>
   <p align="center"><i>Techno-Axiological Penteract.</i></p>
 </p>
 
