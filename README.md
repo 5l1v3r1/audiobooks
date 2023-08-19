@@ -11,9 +11,6 @@
 
 4. Advancing Algebra Education (GPT)
 
-(Audio by Alex Voice https://ss64.com/osx/say.html)
+5. Personal Questions (GPT)
 
-<p align="center">
-  <img src="assets/techno-axiological penteract.jpg" width="500px"/>
-  <p align="center"><i>Techno-Axiological Penteract</i></p>
-</p>
+(Audio by Alex Voice https://ss64.com/osx/say.html)
