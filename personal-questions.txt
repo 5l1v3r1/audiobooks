@@ -264,7 +264,7 @@ Comparison Testing: The authors tested both Ernie and ChatGPT in Chinese, asking
 
 Taboo Topics in China: When asked about sensitive or censored subjects in China, such as the Tiananmen Square events or Taiwan, Ernie either avoided the questions or provided answers in line with the Chinese government's official stance. In contrast, ChatGPT provided more fact-based or neutral answers, based on information up until September 2021.
 
-Current Affairs and Trivia: Ernie seemed to have access to more current information thanks to integration with Baidu's search engine, while ChatGPT's knowledge was limited to its cut-off date. Both had strengths and weaknesses in answering various trivia questions.
+Current Affairs and Trivia: Ernie seemed to have access to more current information thanks to integration with Baidu's search engine, while ChatGPTs knowledge was limited to its cut-off date. Both had strengths and weaknesses in answering various trivia questions.
 
 Alignment with National Interests: Ernie's responses reflect China's censorship and political position on certain matters, indicating that chatbots may inherently carry the biases or restrictions of the region or organization that develops them.
 
@@ -307,7 +307,7 @@ This article reinforces the notion that while both Ernie and ChatGPT have their 
 
 The further details from the comparison between Baidu's Ernie Bot and OpenAIs ChatGPT highlight various strengths and weaknesses in different areas:
 
-Handling Political Topics: Ernie cut off the conversation when asked about sensitive political topics, while ChatGPT was more forthcoming. Ernie's response to self-censorship was also ambiguous, compared to ChatGPT's clear stance.
+Handling Political Topics: Ernie cut off the conversation when asked about sensitive political topics, while ChatGPT was more forthcoming. Ernie's response to self-censorship was also ambiguous, compared to ChatGPTs clear stance.
 
 Visual Abilities: Ernie displayed the ability to create drawings, an area where it outperformed ChatGPT, though with some quirky interpretations.
 
@@ -321,7 +321,7 @@ Open-Ended Questions: ChatGPT was more adept at handling open-ended questions an
 
 Overall Progress: Both bots were acknowledged as works in progress. Baidu's CEO Robin Li noted that user feedback for ChatGPT was initially worse than for Ernie, suggesting an ongoing evolution.
 
-This side-by-side comparison underscores the complexities of building AI models that can navigate language, culture, political sensitivities, and creative requests. While both models show significant capabilities, they each have areas for potential improvement. Ernie's limitations in certain areas could be seen as a reflection of constraints related to operating within China's regulatory environment, while ChatGPT's strength in more open-ended and sensitive scenarios may reflect its development within a different cultural and political context.
+This side-by-side comparison underscores the complexities of building AI models that can navigate language, culture, political sensitivities, and creative requests. While both models show significant capabilities, they each have areas for potential improvement. Ernie's limitations in certain areas could be seen as a reflection of constraints related to operating within China's regulatory environment, while ChatGPTs strength in more open-ended and sensitive scenarios may reflect its development within a different cultural and political context.
 
 
 
