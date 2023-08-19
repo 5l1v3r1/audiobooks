@@ -181,7 +181,7 @@ Synthetic Biology: The ability to manipulate and create life at a genetic level 
 
 Global Cooperation or Conflict: Political and social transitions could also lead to significant shifts. Greater global cooperation might lead to a new era of peace and prosperity, while major conflicts could have devastating impacts.
 
-Disease Evolution: The rapid evolution of diseases (as we've seen with co-vid 19) could lead to significant changes in human behavior, social structures, and even biology.
+Disease Evolution: The rapid evolution of diseases (as we've seen with covid 19) could lead to significant changes in human behavior, social structures, and even biology.
 
 Biodiversity Changes: The current rate of species extinction and the introduction of invasive species may lead to unforeseen shifts in ecosystems, possibly resulting in new stable states that are drastically different from what we know today.
 
