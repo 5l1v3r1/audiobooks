@@ -3,14 +3,16 @@
 
 ## Index
 
-1. A Hyperdimensional Primer on Logical Constructs (GPT)
+1. A Hyperdimensional Primer on Logical Constructs
 
-2. Principia Metaphysica Dilucitatio (GPT & Claude)
+2. Principia Metaphysica Dilucitatio
 
-3. Math Topics Overview (GPT)
+3. Math Topics Overview
 
-4. Advancing Algebra Education (GPT)
+4. Advancing Algebra Education
 
-5. Personal Questions (GPT)
+5. Personal Questions
 
-(Audio by Alex Voice https://ss64.com/osx/say.html)
+6. Mind-making Machines
+
+(GPT + Audio by Alex Voice https://ss64.com/osx/say.html)
