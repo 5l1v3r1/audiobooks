@@ -15,4 +15,6 @@
 
 6. Mind-making Machines
 
+7. Perpetual Truth Detector
+
 (GPT + Audio by Alex Voice https://ss64.com/osx/say.html)
